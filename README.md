@@ -1,7 +1,7 @@
-# IKS on VPC Gen-2 Example
+# ROKS on VPC Gen-2 Example
 
 ## Introduction
-This Example enables user to create a IBM Cloud Kubernetes Cluster on the IBM CLOUD VPC gen-2 Infrastructure.
+This Example enables user to create a Redhat OpenShift on the IBM CLOUD VPC gen-2 Infrastructure.
 
 ## Terraform Versions
 Terraform v0.12. and terraform-provider-ibm version to `~> v1.7.2`. Branch - `master`.
